@@ -1,4 +1,4 @@
-# 📊 Excel Data Analysis Project
+# 📊 Bikes Sales Excel Data Analysis Project
 ## 📌 Project Overview
 
 This project demonstrates advanced data analysis and dashboard creation in Excel, showcasing the ability to clean, manipulate, and visualize data efficiently. It highlights Excel’s power for data-driven decision-making without coding.
