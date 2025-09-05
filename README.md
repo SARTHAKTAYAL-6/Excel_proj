@@ -15,27 +15,27 @@ Dataset: Sample dataset for analysis (e.g., sales, inventory, or business metric
 
 Data Cleaning & Preparation
 
-Handled missing values, duplicates, and inconsistent data.
+    -Handled missing values, duplicates, and inconsistent data.
 
-Standardized formatting and applied data validation for accuracy.
+    -Standardized formatting and applied data validation for accuracy.
 
 Calculations & Metrics
 
-Computed dynamic metrics using Excel formulas.
+    -Computed dynamic metrics using Excel formulas.
 
-Aggregated and analyzed data across categories, time periods, and regions.
+    -Aggregated and analyzed data across categories, time periods, and regions.
 
 PivotTables & PivotCharts
 
-Created interactive PivotTables to summarize data efficiently.
+    -Created interactive PivotTables to summarize data efficiently.
 
-Built PivotCharts for quick visual interpretation of trends.
+    -Built PivotCharts for quick visual interpretation of trends.
 
 Dashboard Design
 
-Developed dashboards with charts, KPIs, slicers, and conditional formatting.
+    -Developed dashboards with charts, KPIs, slicers, and conditional formatting.
 
-Enabled interactive exploration and insights at a glance.
+    -Enabled interactive exploration and insights at a glance.
 
 ## 🚀 Insights & Outcomes
 
